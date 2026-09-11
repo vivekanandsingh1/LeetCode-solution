@@ -27,4 +27,8 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/0032-longest-valid-parentheses) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
