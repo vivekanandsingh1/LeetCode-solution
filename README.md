@@ -44,6 +44,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/0041-first-missing-positive) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -85,8 +86,13 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/0011-container-with-most-water) |
 ## Manacher
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/0005-longest-palindromic-substring) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
