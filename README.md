@@ -21,6 +21,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/0032-longest-valid-parentheses) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Stack
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | ------- |
 | [0041-first-missing-positive](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/0041-first-missing-positive) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Math
 |  |
 | ------- |
@@ -65,4 +67,12 @@
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/0025-reverse-nodes-in-k-group) |
+## Binary Search
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Sorting
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
