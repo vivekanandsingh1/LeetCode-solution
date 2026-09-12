@@ -10,6 +10,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/0032-longest-valid-parentheses) |
 ## Sliding Window
@@ -19,6 +20,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/0032-longest-valid-parentheses) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -76,4 +78,12 @@
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
