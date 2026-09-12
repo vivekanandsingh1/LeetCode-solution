@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0041-first-missing-positive](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/0041-first-missing-positive) |
 ## String
 |  |
 | ------- |
@@ -38,6 +39,7 @@
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/0041-first-missing-positive) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 ## Math
 |  |
