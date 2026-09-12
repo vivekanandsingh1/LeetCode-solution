@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/0006-zigzag-conversion) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/0032-longest-valid-parentheses) |
 ## Sliding Window
