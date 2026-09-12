@@ -46,6 +46,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/0009-palindrome-number) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
 ## Backtracking
 |  |
