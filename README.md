@@ -52,6 +52,7 @@
 | [0011-container-with-most-water](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/0041-first-missing-positive) |
 | [0835-image-overlap](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/0835-image-overlap) |
 | [1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/1467-probability-of-a-two-boxes-having-the-same-number-of-distinct-balls) |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/0016-3sum-closest) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Two Pointers
 |  |
@@ -99,6 +101,7 @@
 | [0005-longest-palindromic-substring](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/vivekanandsingh1/LeetCode-solution/tree/master/0016-3sum-closest) |
 ## Manacher
 |  |
 | ------- |
