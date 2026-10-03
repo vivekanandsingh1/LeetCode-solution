@@ -1,25 +1,25 @@
+#include <bits/stdc++.h>
+using namespace std;
+
 class Solution {
 public:
     int longestValidParentheses(string s) {
-        int maxLen = 0;
         stack<int> st;
-        st.push(-1);  
+        st.push(-1);
+        int ans = 0;
 
-        for (int i = 0; i < s.size(); i++) {
+        for (int i = 0; i < (int)s.size(); i++) {
             if (s[i] == '(') {
                 st.push(i);
             } else {
-                st.pop();  
+                st.pop();
                 if (st.empty()) {
-                    
                     st.push(i);
                 } else {
-                    
-                    maxLen = max(maxLen, i - st.top());
+                    ans = max(ans, i - st.top());
                 }
             }
         }
-
-        return maxLen;
+        return ans;
     }
 };
